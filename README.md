@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishita thakur</h1>
 <h3 align="center">Exploring the Depths of Cybersecurity | Infosec Student</h3>
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/717268678168057748/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishita0001&label=Profile%20views&color=0e75b6&style=flat" alt="rishita0001" /> </p>
 
